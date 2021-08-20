@@ -51,4 +51,4 @@ Some use cases for unsupervised learning — more specifically, clustering — i
 
 ## Thank you for visiting my GitHub profile ,let's connect on LinkedIn 
 
-![LinkedIn:- ](https://www.linkedin.com/in/avisikta-majumdar/)
+[<img align="left" alt="Avisikta Majumdar | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/avisikta-majumdar/)
