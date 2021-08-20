@@ -1,10 +1,4 @@
 # Machine_Learning
-<!DOCTYPE html>
-<html>
-    <head>
-        <link rel="stylesheet" href="machine_learning.css">
-    </head>
-<body>
 
 <table border=1 cellspacing="0" class="table_1">
     <tr class="heading"> 
@@ -60,5 +54,3 @@
         <td><a href="http://www.google.com">Click here</a></td>
     </tr>
 </table>
-</body>
-</html>
